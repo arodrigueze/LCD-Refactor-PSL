@@ -1,3 +1,4 @@
+package modelo;
 /**
  * La clase Validacion realiza acciones
  * de validacion de los datos ingresados
